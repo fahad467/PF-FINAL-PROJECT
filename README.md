@@ -1,6 +1,6 @@
 # PF-FINAL-PROJECT
 
-PF project ( GPU data analysis )  
+PF project ( Youtube data analysis )  
 
 import pandas as pd
 df = pd.read_csv("youtube data.csv")
